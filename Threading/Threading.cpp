@@ -49,7 +49,6 @@ int main()
     t1.join();
     t2.join();
     t3.join();
-    std::cout << "Hello World!\n";
     delete c1,c2;
 }
 

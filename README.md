@@ -1,2 +1,2 @@
 # ThreadingExp
-Multi Threading passing class objects 
+Multi Threading by passing class objects 
